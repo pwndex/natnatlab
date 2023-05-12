@@ -1,0 +1,3 @@
+[submodule "coreui"]
+	path = coreui
+	url = https://github.com/pwndex/coreui.git
